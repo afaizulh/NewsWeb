@@ -1,0 +1,44 @@
+[
+    {
+        "color": "white",
+        "type": "cat",
+        "size": "nano",
+        "name": "tayo"
+    },
+    {
+        "color": "gray",
+        "type": "cat",
+        "size": "nano",
+        "name": "gray"
+    },
+    {
+        "color": "brown",
+        "type": "dog",
+        "size": "nano",
+        "name": "Doggy"
+    },
+    {
+        "color": "white",
+        "type": "chicken",
+        "size": "nano",
+        "name": "Gilang"
+    },
+    {
+        "color": "white",
+        "type": "cat",
+        "size": "nano",
+        "name": "Catty"
+    },
+    {
+        "color": "brown",
+        "type": "dog",
+        "size": "nano",
+        "name": "Gito"
+    },
+    {
+        "color": "red",
+        "type": "fox",
+        "size": "nano",
+        "name": "Kurama-chan"
+    }
+]
