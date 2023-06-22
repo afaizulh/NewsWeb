@@ -30,8 +30,9 @@
             <a href="{{ route('register') }}" class="btn btn-primary">Sign-up</a>
         @else
             <div class="dropdown">
-                <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                <button class="btn btn-white dropdown-toggle" type="button" data-bs-toggle="dropdown"
                     aria-expanded="false">
+                    <img src="https://ui-avatars.com/api/?name={{ Auth::user()->username }}" alt="username icon" class="img-fluid me-1" style="max-width: 25%; height: auto; border-radius: 50%;">
                     {{ Auth::user()->username }}
                 </button>
                 <ul class="dropdown-menu">
